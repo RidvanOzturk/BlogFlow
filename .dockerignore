@@ -1,0 +1,19 @@
+# Build klasörleri
+bin/
+obj/
+
+# Git ile ilgili dosyalar
+.git/
+.gitignore
+
+# IDE ve user-specific dosyalar
+.vscode/
+*.user
+*.suo
+
+# Docker ile alakasız şeyler
+*.md
+*.log
+
+# Test projesi
+BlogFlow.Tests/
